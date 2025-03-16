@@ -1,0 +1,21 @@
+
+.go-back-button {
+    
+    font-size: 14px; 
+    color: #5f6368; 
+    background: none;
+    
+    
+    text-decoration: underline;
+    
+  }
+  
+  .go-back-button:hover {
+    background: none;
+     
+  }
+
+  .auth-buttons{
+    display: flex;
+    gap: 10px;
+  }
